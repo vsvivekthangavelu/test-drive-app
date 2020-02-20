@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/test-drive-app/static/js/main.c6d8d37e.chunk.js",
+    "main.js.map": "/test-drive-app/static/js/main.c6d8d37e.chunk.js.map",
+    "runtime-main.js": "/test-drive-app/static/js/runtime-main.b64c0a0c.js",
+    "runtime-main.js.map": "/test-drive-app/static/js/runtime-main.b64c0a0c.js.map",
+    "static/css/2.53c20c32.chunk.css": "/test-drive-app/static/css/2.53c20c32.chunk.css",
+    "static/js/2.3c1a1b43.chunk.js": "/test-drive-app/static/js/2.3c1a1b43.chunk.js",
+    "static/js/2.3c1a1b43.chunk.js.map": "/test-drive-app/static/js/2.3c1a1b43.chunk.js.map",
+    "index.html": "/test-drive-app/index.html",
+    "precache-manifest.b41432bb32c0aca4a3109f019b5ef8ed.js": "/test-drive-app/precache-manifest.b41432bb32c0aca4a3109f019b5ef8ed.js",
+    "service-worker.js": "/test-drive-app/service-worker.js",
+    "static/css/2.53c20c32.chunk.css.map": "/test-drive-app/static/css/2.53c20c32.chunk.css.map",
+    "static/js/2.3c1a1b43.chunk.js.LICENSE": "/test-drive-app/static/js/2.3c1a1b43.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b64c0a0c.js",
+    "static/css/2.53c20c32.chunk.css",
+    "static/js/2.3c1a1b43.chunk.js",
+    "static/js/main.c6d8d37e.chunk.js"
+  ]
+}
